@@ -15,7 +15,7 @@
     <div clas="container">
         <div class="centro">
             <h1>Temperaturas tomadas durante 10 horas </h1>
-            <span class="subt">Horario de: 14:00 del día 23 de mayo hasta las 10:00 del día 24 de
+            <span class="subt">Horario de: 06:00 del día 23 de mayo hasta las 21:00 del día 23 de
                 mayo de 2019</span>
         </div>
         <div class="ct-chart ct-octave"></div>
