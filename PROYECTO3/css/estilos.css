@@ -1,0 +1,67 @@
+.ct-series-a .ct-bar {
+  /* Color de las barras de la primer serie*/
+  stroke: Green;
+  /* El ancho de las barras */
+  stroke-width: 30px;
+  
+}
+.ct-series-b .ct-bar {
+  /* Color de las barras de la segunda serie */
+  stroke: Teal;
+  /* El ancho de las barras */
+  stroke-width: 30px;
+
+}
+.ct-series-c .ct-bar {
+  /* Color de las barras de la segunda serie */
+  stroke: Maroon;
+  /* El ancho de las barras */
+  stroke-width: 30px;
+
+}
+.ct-series-d .ct-bar {
+  /* Color de las barras de la segunda serie */
+  stroke: Gray;
+  /* El ancho de las barras */
+  stroke-width: 30px;
+
+}
+.ct-series-e .ct-bar {
+  /* Color de las barras de la segunda serie */
+  stroke: hsl(146, 63%, 37%);
+  /* El ancho de las barras */
+  stroke-width: 30px;
+
+}
+.ct-series-f .ct-bar {
+  /* Color de las barras de la segunda serie */
+  stroke: hsl(24, 100%, 41%);
+  /* El ancho de las barras */
+  stroke-width: 30px;
+
+}
+.temp-box{
+  width: 50px;
+  
+}
+.temp{
+  display: inline-flex;
+}
+.max{
+background-color: Green;
+
+}
+.min{
+  background-color: Teal;
+}
+.subt{
+  display: block;
+  color: rgb(4, 29, 83);
+  font-size: large;
+}
+.encabezado{
+  text-align: center;
+}
+.marco_histo{
+  border-style: double;
+}
